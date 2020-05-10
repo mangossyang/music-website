@@ -1,27 +1,5 @@
 <h1 align="center">music-website</h1>
 
-<br/>
-
-<p align="center">
-  <a href=""><img alt="license" src="https://img.shields.io/github/license/Yin-Hongwei/music-website"></a>
-</p>
-<h1 align="center">声明</h1>
-
-这项目我一直作为技术分享，不做收费（版权归我个人独有，大家拿来学习交流随时欢迎，拒绝商用）。
-
-但有网友提醒我，已经有不法商贩拿此项目谎称是他们的作品并出售，实在让人心寒。希望大家可以尊重下我的劳动成果。
-
-（下面是该不法商贩的一些信息，本想和他私聊解决，但是被他无情的拉黑了，所以挂下他吧还是）
-
-- B站地址：https://space.bilibili.com/356629729?spm_id_from=333.788.b_765f7570696e666f.1
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1gemeqxzs27j310i0iutu4.jpg)
-
-- csdn地址：https://blog.csdn.net/qq_40985788/
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1gemeuatiagj31740oykaq.jpg)
-
-<br/>
 
 ## 项目说明
 
